@@ -30,7 +30,6 @@ export const crearDeck = (tiposDeCarta,TiposEspeciales) => {
             deck.push( esp + tipo);
         }
     }
-    // console.log( deck );
     deck = _.shuffle( deck );
     return deck;
 }
