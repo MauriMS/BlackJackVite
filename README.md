@@ -9,5 +9,6 @@ Pasos para ejecutar el proyecto:
 
 
 ## Produccion
-1.Ejecutar ``` npm run build```
+
+1. Ejecutar ``` npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
